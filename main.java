@@ -92,6 +92,28 @@ class Station {
     static String PASIR_PANJANG = "Pasir Panjang";
     static String LABRADOR_PARK = "Labrador Park";
     // static String HARBOURFRONT = "HarbourFront";
+
+	// NSL
+	static String BUKIT_BATOK = "Bukit Batok";
+	static String BUKIT_GOMBAK = "Bukit Gombak";
+	static String CHOA_CHU_KANG = "Choa Chua Kang";
+	static String YEW_TEE = "Yew Tee";
+	static String KRANJI = "Kranji";
+	static String MARSILING = "Marsiling";
+	static String WOODLANDS = "Woodlands";
+	static String ADMIRALTY = "Admiralty";
+	static String SEMBAWANG = "Sembawang";
+	static String YISHUN = "Yishun";
+	static String KHATIB = "Khatib";
+	static String YIO_CHU_KANG = "Yio Chu Kang";
+	static String ANG_MO_KIO = "Ang Mo Kio";
+	static String BRADDELL = "Braddell";
+	static String TOA_PAYOH = "Toa Payoh";
+	static String NOVENA = "Novena";
+	static String NEWTON = "Newton";
+	static String ORCHARD = "Orchard";
+	static String SOMERSET = "Somerset";
+	static String MARINA_SOUTH_PIER = "Marina South Pier";
 }
 
 class Line {
